@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/threejs-pixijs-matterjs/static/js/main.048c79ba.chunk.js",
-    "main.js.map": "/threejs-pixijs-matterjs/static/js/main.048c79ba.chunk.js.map",
+    "main.js": "/threejs-pixijs-matterjs/static/js/main.c173b9b9.chunk.js",
+    "main.js.map": "/threejs-pixijs-matterjs/static/js/main.c173b9b9.chunk.js.map",
     "runtime-main.js": "/threejs-pixijs-matterjs/static/js/runtime-main.2d58400c.js",
     "runtime-main.js.map": "/threejs-pixijs-matterjs/static/js/runtime-main.2d58400c.js.map",
-    "static/js/2.f481179c.chunk.js": "/threejs-pixijs-matterjs/static/js/2.f481179c.chunk.js",
-    "static/js/2.f481179c.chunk.js.map": "/threejs-pixijs-matterjs/static/js/2.f481179c.chunk.js.map",
+    "static/js/2.ec9f5353.chunk.js": "/threejs-pixijs-matterjs/static/js/2.ec9f5353.chunk.js",
+    "static/js/2.ec9f5353.chunk.js.map": "/threejs-pixijs-matterjs/static/js/2.ec9f5353.chunk.js.map",
     "index.html": "/threejs-pixijs-matterjs/index.html",
-    "static/js/2.f481179c.chunk.js.LICENSE.txt": "/threejs-pixijs-matterjs/static/js/2.f481179c.chunk.js.LICENSE.txt",
+    "static/js/2.ec9f5353.chunk.js.LICENSE.txt": "/threejs-pixijs-matterjs/static/js/2.ec9f5353.chunk.js.LICENSE.txt",
     "static/media/pattern.45550f3b.svg": "/threejs-pixijs-matterjs/static/media/pattern.45550f3b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2d58400c.js",
-    "static/js/2.f481179c.chunk.js",
-    "static/js/main.048c79ba.chunk.js"
+    "static/js/2.ec9f5353.chunk.js",
+    "static/js/main.c173b9b9.chunk.js"
   ]
 }
