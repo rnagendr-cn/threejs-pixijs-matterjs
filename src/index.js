@@ -1,17 +1,17 @@
 import React from "react"
 import { render } from "react-dom"
-import { BrowserRouter, Routes, Route } from "react-router-dom"
+import { Routes, Route, HashRouter } from "react-router-dom"
 import routes from "./routes"
 
 render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         {routes.map(({ path, page }, i) => (
           <Route key={i} path={path} element={page} />
         ))}
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById("root")
 )
