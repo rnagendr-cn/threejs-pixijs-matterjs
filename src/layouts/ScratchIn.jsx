@@ -85,12 +85,14 @@ const ScratchIn = ({ classes }) => {
     window.addEventListener("mousedown", growPointer)
     window.addEventListener("mouseup", shrinkPointer)
     window.addEventListener("mousemove", handleMouseMove)
+    // Need to add touch events for mobile / tablets
     // On resize, the canvas just resets instead of responsively scaling
     window.addEventListener("resize", initialSetup)
     return () => {
       window.removeEventListener("mousedown", growPointer)
       window.removeEventListener("mouseup", shrinkPointer)
       window.removeEventListener("mousemove", handleMouseMove)
+      // Need to add touch events for mobile / tablets
       window.removeEventListener("resize", initialSetup)
     }
   }, [])

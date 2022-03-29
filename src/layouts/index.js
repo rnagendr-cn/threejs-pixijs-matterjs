@@ -1,2 +1,5 @@
 export { default as ScratchIn } from "./ScratchIn"
 export { default as ScratchInOut } from "./ScratchInOut"
+export { default as TwoDCollision } from "./TwoDCollision"
+export { default as ThreeJSBasics } from "./ThreeJSBasics"
+export { default as ThreeJSModel } from "./ThreeJSModel"
