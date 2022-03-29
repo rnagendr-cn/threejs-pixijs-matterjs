@@ -1,6 +1,5 @@
 {
   "name": "editorial-data-viz-template",
-  "homepage": "https://rnagendr-cn.github.io/threejs-pixijs-matterjs",
   "version": "0.1.0",
   "main": "index.js",
   "private": true,
