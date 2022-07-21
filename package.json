@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "private": true,
+  "homepage": "https://rnagendr-cn.github.io/threejs-pixijs-matterjs",
   "dependencies": {
     "@react-three/drei": "^8.20.1",
     "@react-three/fiber": "^7.0.26",

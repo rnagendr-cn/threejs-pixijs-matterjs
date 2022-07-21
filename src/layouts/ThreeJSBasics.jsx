@@ -50,7 +50,7 @@ const Children = () => {
       {objs.map((pos, i) => (
         <Mesh1 key={i} position={pos} />
       ))}
-      {/* <Mesh1 /> */}
+      {/* <Mesh1 position={[0, 0, 0]} /> */}
     </>
   )
 }

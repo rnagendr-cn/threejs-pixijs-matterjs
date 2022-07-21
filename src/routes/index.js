@@ -8,12 +8,18 @@ import {
 } from "../layouts"
 
 const routes = [
-  {
-    name: "Home",
-    description: "",
-    path: "/",
-    page: <App />,
-  },
+  // {
+  //   name: "Home",
+  //   description: "",
+  //   path: "/",
+  //   page: <App />,
+  // },
+  // {
+  //   name: "Home",
+  //   description: "",
+  //   path: "threejs-pixijs-matterjs",
+  //   page: <App />,
+  // },
   {
     name: "Scratch In",
     description: "Solid color on top, scratch to reveal pattern",
@@ -47,6 +53,12 @@ const routes = [
       "Loading external models into three.js. Click and drag the shoe to rotate it.",
     path: "poly",
     page: <ThreeJSModel />,
+  },
+  {
+    name: "Home",
+    description: "",
+    path: "*",
+    page: <App />,
   },
 ]
 

@@ -10,12 +10,8 @@ const Mesh1 = ({ position }) => {
   })
   return (
     <mesh position={position} ref={meshRef}>
-      <coneGeometry />
-      <meshLambertMaterial
-        // color="#FFAE00"
-        color={colorToHex(colors.white)}
-        emissive={colorToHex(colors.red)}
-      />
+      <boxGeometry />
+      <meshLambertMaterial emissive={colorToHex(colors.red)} />
     </mesh>
   )
 }

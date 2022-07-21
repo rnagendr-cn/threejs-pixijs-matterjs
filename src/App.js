@@ -25,11 +25,15 @@ const App = ({ classes }) => {
   return (
     <main className={classes.app}>
       <nav>
-        {Object.values(routes.slice(1, routes.length)).map((d, i) => (
+        {Object.values(routes.slice(0, routes.length - 1)).map((d, i) => (
           <>
-            <Link key={i} to={d.path}>
+            {d.name === "Home" ? (
               <h2>{d.name}</h2>
-            </Link>
+            ) : (
+              <Link key={i} to={d.path}>
+                <h2>{d.name}</h2>
+              </Link>
+            )}
             <p>{d.description}</p>
           </>
         ))}
