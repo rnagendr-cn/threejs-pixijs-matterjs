@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.adfc4b3d.chunk.js",
-    "main.js.map": "/static/js/main.adfc4b3d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b674cfc5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b674cfc5.js.map",
-    "static/js/2.f6d7ca39.chunk.js": "/static/js/2.f6d7ca39.chunk.js",
-    "static/js/2.f6d7ca39.chunk.js.map": "/static/js/2.f6d7ca39.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.f6d7ca39.chunk.js.LICENSE.txt": "/static/js/2.f6d7ca39.chunk.js.LICENSE.txt",
-    "static/media/pattern.45550f3b.svg": "/static/media/pattern.45550f3b.svg"
+    "main.js": "/threejs-pixijs-matterjs/static/js/main.adfc4b3d.chunk.js",
+    "main.js.map": "/threejs-pixijs-matterjs/static/js/main.adfc4b3d.chunk.js.map",
+    "runtime-main.js": "/threejs-pixijs-matterjs/static/js/runtime-main.2d58400c.js",
+    "runtime-main.js.map": "/threejs-pixijs-matterjs/static/js/runtime-main.2d58400c.js.map",
+    "static/js/2.f6d7ca39.chunk.js": "/threejs-pixijs-matterjs/static/js/2.f6d7ca39.chunk.js",
+    "static/js/2.f6d7ca39.chunk.js.map": "/threejs-pixijs-matterjs/static/js/2.f6d7ca39.chunk.js.map",
+    "index.html": "/threejs-pixijs-matterjs/index.html",
+    "static/js/2.f6d7ca39.chunk.js.LICENSE.txt": "/threejs-pixijs-matterjs/static/js/2.f6d7ca39.chunk.js.LICENSE.txt",
+    "static/media/pattern.45550f3b.svg": "/threejs-pixijs-matterjs/static/media/pattern.45550f3b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b674cfc5.js",
+    "static/js/runtime-main.2d58400c.js",
     "static/js/2.f6d7ca39.chunk.js",
     "static/js/main.adfc4b3d.chunk.js"
   ]
